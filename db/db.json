@@ -1,45 +1,45 @@
 {
   "livros": [
     {
-      "id": "1",
+      "id": 1,
       "titulo": "The witcher",
-      "editora": "1",
-      "autor": "1",
-      "categoria": "1",
-      "preco": 70.0
+      "editora": 1,
+      "autor": 1,
+      "categoria": 1,
+      "preco": 70
     },
     {
-      "id": "2",
+      "id": 2,
       "titulo": "Grimório das Bruxas",
-      "editora": "2",
-      "autor": "2",
-      "categoria": "2",
-      "preco": 40.0
+      "editora": 2,
+      "autor": 2,
+      "categoria": 2,
+      "preco": 40
     },
     {
-      "id": "3",
+      "id": 3,
       "titulo": "O pequeno príncipe",
-      "editora": "3",
-      "autor": "3",
-      "categoria": "3",
-      "preco": 20.0
+      "editora": 3,
+      "autor": 3,
+      "categoria": 3,
+      "preco": 20
     }
   ],
   "editoras": [
     {
-      "id": "1",
+      "id": 1,
       "nome": "Companhia das Letras",
       "site_lf": "https://www.companhiadasletras.com.br",
       "site_lnf": "www.companhiadasletras.com.br"
     },
     {
-      "id": "2",
+      "id": 2,
       "nome": "Editora Rocco",
       "site_lf": "https://www.rocco.com.br/",
       "site_lnf": "www.rocco.com.br"
     },
     {
-      "id": "3",
+      "id": 3,
       "nome": "Editora Arqueiro",
       "site_lf": "https://www.editoraarqueiro.com.br",
       "site_lnf": "www.editoraarqueiro.com.br"
@@ -47,29 +47,29 @@
   ],
   "autores": [
     {
-      "id": "1",
+      "id": 1,
       "nome": "Andrzej Sapkowski"
     },
     {
-      "id": "2",
+      "id": 2,
       "nome": "RONALD HUTTON"
     },
     {
-      "id": "3",
+      "id": 3,
       "nome": "Antoine de Saint-Exupéry"
     }
   ],
   "categorias": [
     {
-      "id": "1",
+      "id": 1,
       "nome": "Drama"
     },
     {
-      "id": "2",
+      "id": 2,
       "nome": "Medo"
     },
     {
-      "id": "3",
+      "id": 3,
       "nome": "Ficção"
     }
   ]
