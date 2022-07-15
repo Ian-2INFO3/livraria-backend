@@ -3,26 +3,48 @@
     {
       "id": 1,
       "titulo": "The witcher",
-      "editora": 1,
-      "autor": 1,
-      "categoria": 1,
+      "editoraId": 1,
+      "autoreId": 1,
+      "categoriaId": 1,
       "preco": 70
     },
     {
       "id": 2,
       "titulo": "Grimório das Bruxas",
-      "editora": 2,
-      "autor": 2,
-      "categoria": 2,
+      "editoraId": 2,
+      "autoreId": 2,
+      "categoriaId": 2,
       "preco": 40
     },
     {
       "id": 3,
       "titulo": "O pequeno príncipe",
-      "editora": 3,
-      "autor": 3,
-      "categoria": 3,
+      "editoraId": 3,
+      "autoreId": 3,
+      "categoriaId": 3,
       "preco": 20
+    },
+    {
+      "editoraId": 2,
+      "categoriaId": 3,
+      "autoreId": 1,
+      "titulo": "aaa",
+      "preco": 123,
+      "id": 4,
+      "editora": {
+        "id": 2,
+        "nome": "Editora Rocco",
+        "site_lf": "https://www.rocco.com.br/",
+        "site_lnf": "www.rocco.com.br"
+      },
+      "categoria": {
+        "id": 3,
+        "nome": "Ficção"
+      },
+      "autore": {
+        "id": 2,
+        "nome": "RONALD HUTTON"
+      }
     }
   ],
   "editoras": [
